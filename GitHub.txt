@@ -34,7 +34,7 @@
     Compare                      :       git diff 06374fa6..06374fa6 Or git log --oneline
     Git Hard Reset to HEAD       :       git reset --hard HEAD  or HEAD~2
                                  :       git reset --soft HEAD~3
-                                :       git reset HEAD~
+                                 :       git reset HEAD~
 ??
 git config  --global core.editor "notepad.exe"
 git revert 425cbf0
